@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Carla
-#### Full Stack Developer
+
 ![Full Stack Developer](https://media.licdn.com/dms/image/D4D16AQHN4GHWt5HqIw/profile-displaybackgroundimage-shrink_350_1400/0/1694829639251?e=1700697600&v=beta&t=_o6FJ3OI78llr5jBBy64qaO28041bnv5aUOGEOrz4wE)
 
-A passionate full stack developer from Argentina. I studied programming at Henry, Fullstack. Dedicated to continuous learning. Also delving into Backend at Ingenias+ by YPF.
+#### A passionate full stack developer from Argentina. I studied programming at Henry, Fullstack. Dedicated to continuous learning. Also delving into Backend at Ingenias+ by YPF.
 
 Skills: JavaScript | React | Redux | NodeJs | Express | Sequelize | PostgreSQL | MySQL | MongoDB
 
