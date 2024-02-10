@@ -4,10 +4,10 @@
 
 #### A passionate full stack developer from Argentina. I studied programming at Henry, Fullstack. Dedicated to continuous learning. Also delving into Backend at Ingenias+ by YPF.
 
-Skills: JavaScript | React | Redux | NodeJs | Express | Sequelize | PostgreSQL | MySQL | MongoDB
+Skills: JavaScript | React | Redux | NodeJs | Express | PostgreSQL | MySQL | MongoDB | NestJs | Jest | Agile Methodologies
 
-- 🔭 I’m currently working on this page https://marketzone.vercel.app/ 
-- 🌱 I’m currently learning MySQL at Ingenias+ 
+- 🔭 I’m currently working on this page MarketCamp at DevoCamp.
+- 🌱 I’m currently learning MySQL at Ingenias+ and .NET at Codigo Facilito.
 - 📫 How to reach me: cmps03.5@gmail.com 
 
 
